@@ -1,0 +1,10 @@
+.button {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  height: 36px;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+

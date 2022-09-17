@@ -1,0 +1,71 @@
+.catchhouselogo-1 {
+  align-items: flex-start;
+  border: 1.89px none;
+  display: flex;
+  margin-top: -8.4px;
+  min-width: 28px;
+  padding: 0.3px 0;
+}
+
+.up-house-1 {
+  align-items: flex-end;
+  border: 0.53px none;
+  display: flex;
+  min-width: 27px;
+}
+
+.overlap-group1 {
+  height: 22px;
+  margin-bottom: 0;
+  position: relative;
+  width: 27px;
+}
+
+.overlap-group-1 {
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 27px;
+}
+
+.rectangle-3147-1 {
+  background-color: var(--black);
+  border: 0.12px none;
+  border-radius: 12.46px;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  transform: rotate(-11.34deg);
+  width: 17px;
+}
+
+.rectangle-3148-1 {
+  background-color: var(--black);
+  border: 0.12px none;
+  border-radius: 12.46px;
+  height: 1px;
+  left: 15px;
+  position: absolute;
+  top: 2px;
+  transform: rotate(16.23deg);
+  width: 12px;
+}
+
+.group-7720-1 {
+  height: 21px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.x-1 {
+  height: 10px;
+  left: 10px;
+  position: absolute;
+  top: 6px;
+  width: 7px;
+}
+

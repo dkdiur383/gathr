@@ -1,0 +1,28 @@
+.btn-secondary {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--royal-blue-2);
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-right: -1.00px;
+  margin-top: -1.00px;
+  padding: 8px 30px;
+  width: 82px;
+}
+
+.secondary {
+  color: var(--royal-blue-2);
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-xl2);
+  font-weight: 400;
+  height: 24px;
+  letter-spacing: 0.16px;
+  margin-left: -40.00px;
+  margin-right: -38.00px;
+  margin-top: -0.50px;
+  text-align: center;
+  width: 100px;
+}
+

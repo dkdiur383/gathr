@@ -1,0 +1,9 @@
+.button-5 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+

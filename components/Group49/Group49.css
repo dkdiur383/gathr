@@ -1,0 +1,32 @@
+.group-49-2 {
+  align-items: center;
+  background-color: var(--backgroundsprimary);
+  border-radius: 23px;
+  box-shadow: 0px 2px 8px #06173029;
+  display: flex;
+  height: 46px;
+  min-width: 46px;
+  padding: 0 3px;
+}
+
+.ellipse-11-1 {
+  border: 1px none;
+  border-radius: 20px;
+  height: 40px;
+  width: 40px;
+}
+
+.group-49-2.group-49-1,
+.group-49-2.group-49-1-1 {
+  align-items: unset;
+  display: unset;
+  padding: unset;
+}
+
+.group-49-2.group-49-1-1 .ellipse-11-1,
+.group-49-2.group-49-1 .ellipse-11-1 {
+  left: 3px;
+  position: relative;
+  top: 3px;
+}
+

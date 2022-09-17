@@ -1,0 +1,173 @@
+:root { 
+  --alto: #d9d9d9;
+  --athens-gray: #ebeff5;
+  --backgroundsprimary: #ffffff;
+  --black: #000000;
+  --blueberry: #3b82f6;
+  --california: #f59e0b;
+  --casper: #a9b8ce;
+  --gray-nurse: #e9e9e9;
+  --lynch: #6d7e97;
+  --midnight: #061730;
+  --mountain-meadow: #10b981;
+  --red: #d83838;
+  --river-bed: #3e4b5e;
+  --rock-blue: #a0b1c9;
+  --royal-blue-2: #3076e0;
+  --santas-gray: #9ca3af;
+  --shamrock: #61ca9f;
+  --slate-gray: #747f8d;
+  --text2: #1f2937;
+  --text5: #6b7280;
+  --text9: #f3f4f6;
+ 
+  --font-size-l: 22px;
+  --font-size-l2: 14px;
+  --font-size-m2: 12px;
+  --font-size-s2: 11.6px;
+  --font-size-xl2: 16px;
+  --font-size-xs2: 7.2px;
+  --font-size-xxxl: 24px;
+ 
+  --font-family-charter-bold: "Charter-Bold", Helvetica;
+  --font-family-charter-roman: "Charter-Roman", Helvetica;
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-roboto: "Roboto", Helvetica;
+  --font-family-source_sans_pro: "Source Sans Pro", Helvetica;
+  --font-family-source_serif_pro: "Source Serif Pro", Helvetica;
+}
+.sourcesanspro-normal-lynch-14px {
+  color: var(--lynch);
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sourcesanspro-normal-midnight-16px {
+  color: var(--midnight);
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-xl2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-medium-slate-gray-7-2px {
+  color: var(--slate-gray);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs2);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-medium-charade-14px {
+  color: var(--text2);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.sourceserifpro-semi-bold-midnight-24px {
+  color: var(--midnight);
+  font-family: var(--font-family-source_serif_pro);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.charter-roman-normal-river-bed-16px {
+  color: var(--river-bed);
+  font-family: var(--font-family-charter-roman);
+  font-size: var(--font-size-xl2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-medium-black-11-6px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s2);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-bold-black-8-7px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 8.7px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-medium-blueberry-12px {
+  color: var(--blueberry);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-medium-california-12px {
+  color: var(--california);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-medium-mountain-meadow-12px {
+  color: var(--mountain-meadow);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-normal-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-medium-pale-sky-14px {
+  color: var(--text5);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.roboto-bold-black-10-1px {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: 10.1px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-normal-santas-gray-14px {
+  color: var(--santas-gray);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sourcesanspro-normal-rock-blue-16px {
+  color: var(--rock-blue);
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-xl2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sourcesanspro-normal-casper-12px {
+  color: var(--casper);
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 400;
+}

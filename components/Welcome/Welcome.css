@@ -1,0 +1,129 @@
+.welcome {
+  align-items: flex-start;
+  background-color: var(--backgroundsprimary);
+  border: 1px none;
+  display: flex;
+  width: 1440px;
+}
+
+.header {
+  align-items: flex-start;
+  background-color: var(--backgroundsprimary);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 71px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1440px;
+  z-index: 3;
+}
+
+.frame-8800 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 9px;
+  padding: 0px 100px;
+  width: 1402px;
+}
+
+.logo-buttons {
+  align-items: center;
+  align-self: stretch;
+  border: 1px none;
+  display: flex;
+  gap: 344px;
+}
+
+.frame-8791 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  flex: 1;
+  gap: 50px;
+}
+
+.frame-8807 {
+  align-items: center;
+  border: 1.5px none;
+  display: flex;
+  width: fit-content;
+}
+
+.catchup {
+  align-items: flex-start;
+  border: 1.85px none;
+  display: flex;
+  flex-direction: column;
+  gap: 19.59px;
+  padding: 0px 7.84px 0px 0px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-8790 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 39px;
+  margin-right: -136.59px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-8792 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex: 1;
+  gap: 16px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.line {
+  background-color: var(--text9);
+  border: 1px none;
+  height: 2px;
+  margin-top: 20px;
+  width: 1440px;
+}
+
+.frame-9612 {
+  height: 680px;
+  left: 67px;
+  position: fixed;
+  top: 92px;
+  width: 712px;
+  z-index: 2;
+}
+
+.overlap-group3 {
+  align-items: flex-start;
+  display: flex;
+  height: 900px;
+  margin-left: 802px;
+  min-width: 540px;
+  position: relative;
+  z-index: 1;
+}
+
+.frame-4947::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.frame-4947 {
+  align-items: flex-end;
+  border: 1px none;
+  display: flex;
+  height: 900px;
+  min-width: 540px;
+  overflow-y: scroll;
+  position: relative;
+}
+

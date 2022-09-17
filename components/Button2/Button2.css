@@ -1,0 +1,22 @@
+.button-1 {
+  align-items: center;
+  border: 0.5px none;
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-bottom: -2.00px;
+  margin-top: -2.00px;
+  padding: 8px 16px;
+  width: fit-content;
+}
+
+.label {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -0.50px;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+

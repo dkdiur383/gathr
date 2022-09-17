@@ -1,0 +1,43 @@
+.avatar-stacked {
+  border: 0.72px none;
+  height: 23.13px;
+  min-width: 104.07px;
+}
+
+.overlap-group1-1 {
+  height: 25px;
+  position: relative;
+  width: 106px;
+}
+
+.overlap-group-2 {
+  border-radius: 13.01px;
+  height: 27px;
+  left: 79px;
+  position: absolute;
+  top: -1px;
+  width: 26px;
+}
+
+.ellipse-133 {
+  background-color: var(--text9);
+  border: 1.45px solid;
+  border-color: var(--backgroundsprimary);
+  border-radius: 13.01px;
+  height: 26px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.number {
+  left: 4px;
+  letter-spacing: 0.56px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  white-space: nowrap;
+}
+
